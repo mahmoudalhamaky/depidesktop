@@ -41,7 +41,7 @@ class _moneyState extends State<money2> {
               width: double.infinity,
               child: Center(
                   child: Text(
-                    "Money Save",
+                    "Money    Save",
                     style:
                     TextStyle(color: Colors.white70, fontSize: widtha / 10),
                   )),
