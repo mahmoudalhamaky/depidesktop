@@ -20,7 +20,7 @@ class _moneyState extends State<money2> {
             height: heighta / 20,
           ),
           Text(
-            "Deposit Tracker",
+            "Deposit gTracker",
             style: TextStyle(
               color: Colors.black,
               fontSize: widtha / 10,
